@@ -5,7 +5,7 @@ After months of fans and players alike eagerly waited on the fate of the season,
 
 In this project, we're going to figure out the best candidates for a fantasy NBA roster based on the players' average performance over the course of the season.
 
-_Disclaimer: The player stats were taken from the 2017-2018 NBA season._
+_Disclaimer: The player stats were taken from the 2017-2018 NBA season due to restrictions on available data, however the same analysis can be performed on newer data once it is available._
 
 ## The Results
 After evaluating each player's stats and Fantasy player value, the starting five that had the highest combined value is:
