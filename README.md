@@ -8,7 +8,7 @@ In this project, we're going to figure out the best candidates for a fantasy NBA
 _Disclaimer: The player stats were taken from the 2017-2018 NBA season due to restrictions on available data, however the same analysis can be performed on newer data once it is available._
 
 ## The Results
-After evaluating each player's stats and Fantasy player value, the starting five that had the highest combined value is:
+After evaluating each player's stats and Fantasy player value, the best players to choose to form a starting five lineup would be:
 * __Point Guards:__ Russell Westbrook and James Harden
 * __Shooting Guards:__ DeMar DeRozan and CJ McCollum
 * __Small Forwards:__ Lebron James and Giannis Antetokounmpo
